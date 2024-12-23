@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currenly a student of Software Engineering
+Software engineering student @ ALX and IT Student @JKUAT
 
 
 # 💻 Tech Stack:
