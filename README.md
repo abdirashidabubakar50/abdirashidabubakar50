@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Software engineering student @ ALX and IT Student @JKUAT
+# ALX Certified Software Engineer with Backend Specialization and IT Student @JKUAT
 
 
 # 💻 Tech Stack:
